@@ -1,0 +1,15 @@
+Source Name,B0740-28_A2
+Source RA (hhmmss.s),074249
+Source DEC (ddmmss.s),-282243.76
+Reference DM,73.782
+Pulsar Period,0.166762292
+Highest Observation Frequency (MHz),1425.405
+Telescope ID,19
+Machine ID,23
+Data Type,1
+Observing Time (minutes),1800
+Local Oscillator (MHz),0
+Gain (dB),30
+Total Bandwith (MHz),22
+Average Data,512
+Sub Bands,4

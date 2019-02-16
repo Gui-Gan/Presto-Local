@@ -1,0 +1,15 @@
+Source Name,vela_fix_A2
+Source RA (hhmmss.s),100000.00
+Source DEC (ddmmss.s),-100000.0
+Reference DM,01.00
+Pulsar Period,1
+Highest Observation Frequency (MHz),1456
+Telescope ID,19
+Machine ID,23
+Data Type,1
+Observing Time (minutes),160
+Local Oscillator (MHz),0
+Gain (dB),80
+Total Bandwith (MHz),50
+Average Data,4096
+Sub Bands,32

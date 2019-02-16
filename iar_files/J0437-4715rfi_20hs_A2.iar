@@ -1,0 +1,15 @@
+Source Name,J0437-4715rfi_20hs_A2
+Source RA (hhmmss.s),043715.883250
+Source DEC (ddmmss.s),-471509.031863
+Reference DM,2.64476
+Pulsar Period,0.00575748476931
+Highest Observation Frequency (MHz),1200.0
+Telescope ID,19
+Machine ID,21
+Data Type,1
+Observing Time (minutes),1200
+Local Oscillator (MHz),1570.405
+Gain (dB),20
+Total Bandwith (MHz),56
+Average Data,16384
+Sub Bands,32

@@ -1,0 +1,15 @@
+Source Name,B1449-64_A2
+Source RA (hhmmss.s),145300.158
+Source DEC (ddmmss.s),-641315.25
+Reference DM,71.1
+Pulsar Period,0.1795
+Highest Observation Frequency (MHz),1430.
+Telescope ID,19
+Machine ID,23
+Data Type,1
+Observing Time (minutes),60
+Local Oscillator (MHz),0
+Gain (dB),30
+Total Bandwith (MHz),50
+Average Data,8192
+Sub Bands,32

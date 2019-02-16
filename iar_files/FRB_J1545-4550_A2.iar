@@ -1,0 +1,15 @@
+Source Name,FRB_J1545-4550_A2
+Source RA (hhmmss.s),15:49:12.8
+Source DEC (ddmmss.s),-46:7:28
+Reference DM,1458
+Pulsar Period,0.999
+Highest Observation Frequency (MHz),1425.405
+Telescope ID,19
+Machine ID,23
+Data Type,1
+Observing Time (minutes),9000
+Local Oscillator (MHz),0
+Gain (dB),33
+Total Bandwith (MHz),20
+Average Data,256
+Sub Bands,8

@@ -1,0 +1,16 @@
+Source Name,J2124-3358_A2
+Source RA (hhmmss.s),212444
+Source DEC (ddmmss.s),-335844.8500
+Reference DM,6.601
+Pulsar Period,0.004931115
+Highest Observation Frequency (MHz),1425.405
+Telescope ID,19
+Machine ID,23
+Data Type,1
+Observing Time (minutes),10200
+Local Oscillator (MHz),0
+Gain (dB),33
+Total Bandwith (MHz),20
+Average Data,256
+
+Sub Bands,8
